@@ -1,6 +1,8 @@
 # Certifications
 ##  Here is a list of my cetificate accomplishments
 
+---
+
 # Skills
 
 ## Google Qwiklabs
@@ -10,4 +12,5 @@
 ## Microsoft Learn
 [Check it in Mircosoft Learn](https://docs.microsoft.com/en-us/users/adebayoomolumo-0432/achievements "Microsoft Profile Achievements")
 
-
+---
+## Some images
