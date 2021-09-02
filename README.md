@@ -14,5 +14,6 @@
 
 ---
 ## Some images
-[logo]: https://raw.githubusercontent.com/Bayurzx/certificates/master/images/Fundamentals.jpg "Logo Title Text 2"
-[logo]: https://raw.githubusercontent.com/Bayurzx/certificates/master/images/Assocaite_developer.jpg "Logo Title Text 2"
+
+![image](https://raw.githubusercontent.com/Bayurzx/certificates/master/images/Fundamentals.jpg)
+![image](https://raw.githubusercontent.com/Bayurzx/certificates/master/images/Assocaite_developer.jpg)
